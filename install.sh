@@ -28,7 +28,7 @@ git clone https://github.com/anoopkunchukuttan/indic_nlp_resources.git
 export INDIC_RESOURCES_PATH=$root_dir/indic_nlp_resources
 
 # we use version 0.92 which is the latest in the github repo
-git clone https://github.com/anoopkunchukuttan/indic_nlp_library.git
+git clone https://github.com/injilashah/indic_nlp_library.git
 cd indic_nlp_library
 python3 -m pip install ./
 cd $root_dir
